@@ -9,6 +9,10 @@ A simple and fun web app that helps you make decisions by spinning a wheel.
 * Smooth spinning animation
 * Clean and minimal UI
 
+## 🌐 Live Demo
+
+https://workgs676-afk.github.io/decision-spinner/
+
 ## 🛠️ Tech Stack
 
 * HTML
@@ -34,5 +38,4 @@ Built to make decision-making fun and remove overthinking.
 
 ---
 
-# decision-spinner
-Spin the wheel and let randomness decide — a fun, minimal decision-making app.
+Made with ⚡ using AI + human creativity
