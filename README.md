@@ -37,5 +37,3 @@ Built to make decision-making fun and remove overthinking.
 * Better animations and themes
 
 ---
-
-Made with ⚡ using AI + human creativity
