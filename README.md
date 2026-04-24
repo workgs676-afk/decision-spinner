@@ -9,10 +9,6 @@ A simple and fun web app that helps you make decisions by spinning a wheel.
 * Smooth spinning animation
 * Clean and minimal UI
 
-## 🌐 Live Demo
-
-https://yourusername.github.io/your-repo-name/
-
 ## 🛠️ Tech Stack
 
 * HTML
